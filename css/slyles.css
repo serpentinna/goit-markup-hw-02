@@ -4,6 +4,7 @@
   --titles-color: #212121;
   --primary-background-color: #ffffff;
   --secondary-background-color: #f5f4fa;
+  --accent-background-color: #2f303a;
 }
 body {
   background-color: var(--primary-background-color);
